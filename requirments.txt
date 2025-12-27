@@ -1,0 +1,6 @@
+openai
+python-dotenv
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+

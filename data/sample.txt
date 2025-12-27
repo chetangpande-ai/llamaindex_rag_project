@@ -1,0 +1,5 @@
+LlamaIndex is a data framework designed to connect large language models with external data sources.
+It supports indexing, retrieval, and querying over private data.
+LlamaIndex is commonly used in RAG-based AI applications.
+
+silver crescent is a 120 member socieity located in kharadi pune. Chetan pande is the society chairmen
